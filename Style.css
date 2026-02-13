@@ -4,7 +4,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("heart.jpg");
+    background-image: url("./heart.jpg");
+    background-size: cover;
+    background-position: center;
     font-family: "Pixelify Sans", sans-serif;
 }
 
@@ -136,5 +138,6 @@ p {
     background-color: rgba(255,240,240,0.5);
     border-radius: 12px;
 }
+
 
 
